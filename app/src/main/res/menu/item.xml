@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/stard"
+        android:title="标准计算器"
+        android:orderInCategory="100"
+
+/>
+<item android:title="进制转换"
+    android:id="@+id/jin"
+    />
+</menu>
